@@ -7,10 +7,10 @@ main:
     url: /#Services
 
   - title: "Teaching"
-  url: /#Teaching
+    url: /#Teaching
 
   - title: "Awards and Scholarship"
-  url: /#Awards and Scholarship
+    url: /#Awards and Scholarship
 
 
   # - title: "Talks"
