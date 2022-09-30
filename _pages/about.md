@@ -14,7 +14,8 @@ I was a software engineer at Could&AI, Huawei Technology Co., Ltd., from 2019 to
 Before that, I received my M.S. and B.S. degree from the GIS lab, School of Earth Sciences, Zhejiang University, in 2019 and 2016, respectively.
 
 
-#Publications
+Publications
+======
 
 ### Conference Paper
 
@@ -24,7 +25,8 @@ Before that, I received my M.S. and B.S. degree from the GIS lab, School of Eart
  
 * **Yao Liu<sup>*</sup>**, Lina Yao, Binghao Li, Xiaojun Chang and Claude Sammut, [Interpolation Graph Convolutional Network for 3D Point Cloud Analysis](https://doi.org/10.1002/int.23087), International Journal of Intelligent Systems (IJIS), 2022; 1- 22.
 
-# Services
+Services
+======
 
 ### PC Member
 
@@ -57,7 +59,8 @@ Before that, I received my M.S. and B.S. degree from the GIS lab, School of Eart
  
 
 <!-- ################## -->
-# Teaching
+Teaching
+======
 
 ### Research Supervision
 
@@ -79,7 +82,9 @@ Academic Exchange
 -->
 
 <!-- ################## -->
-# Awards and Scholarship
+Awards
+======
+
 * UNSW Tuition Fee Scholarship 2020-2024
 * Excellent Postgraduate Student’s Award of Zhejiang University (M.S. Period)
 * Outstanding Graduates of Zhejiang University (B.S. Period)
