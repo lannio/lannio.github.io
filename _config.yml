@@ -86,9 +86,9 @@ author:
   location         : "Sydney, Australia"
   employer         :
   pubmed           : 
-  googlescholar    : "https://YaoLiu.github.io"
+  googlescholar    : 
   email            :
-  researchgate     : "https://YaoLiu.github.io"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "https://YaoLiu.github.io"
-  orcid            : "https://YaoLiu.github.io"
+  linkedin         : 
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://YaoLiu.github.io"
+  youtube          : 
   wikipedia        :
 
 
