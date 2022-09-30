@@ -9,7 +9,7 @@
 locale                   : "en_AU"
 title                    : "Yao LIU's Homepage"
 title_separator          : "-"
-name                     : &name "Yao LIU"
+name                     : &name "Yao LIU11"
 description              : &description "personal description"
 url                      : https://YaoLiu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
