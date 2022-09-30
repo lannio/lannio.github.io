@@ -9,8 +9,8 @@
 locale                   : "en_AU"
 title                    : "Yao LIU's Homepage"
 title_separator          : "-"
-name                     : &name "Yao LIU11"
-description              : &description "personal description"
+name                     : &name "Yao LIU (刘尧)"
+description              : &description "PhD candidate in CSE, UNSW"
 url                      : https://YaoLiu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YaoLiu/YaoLiu.github.io"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Yao LIU"
+  avatar           : "profile_ly.png"
+  bio              : "PhD candidate in Computer Science and Engineering, The University of New South Wales"
+  location         : "Sydney, Australia"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://YaoLiu.github.io"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://YaoLiu.github.io"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,24 +96,24 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://YaoLiu.github.io"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://YaoLiu.github.io"
+  orcid            : "https://YaoLiu.github.io"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://YaoLiu.github.io"
   wikipedia        :
 
 
