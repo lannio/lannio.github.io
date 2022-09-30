@@ -13,7 +13,7 @@ name                     : &name "Yao LIU (刘尧)"
 description              : &description "PhD candidate in CSE, UNSW"
 url                      : https://YaoLiu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "YaoLiu.github.io"
+repository               : "https://github.com/YaoLiu"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -86,9 +86,9 @@ author:
   location         : "Sydney, Australia"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://YaoLiu.github.io"
   email            :
-  researchgate     : 
+  researchgate     : "https://YaoLiu.github.io"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : 
-  orcid            : 
+  linkedin         : "https://YaoLiu.github.io"
+  orcid            : "https://YaoLiu.github.io"
   pinterest        :
   soundcloud       :
   stackoverflow    :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : 
+  youtube          : "https://YaoLiu.github.io"
   wikipedia        :
 
 
