@@ -17,23 +17,23 @@ Before that, I received my M.S. and B.S. degree from the GIS lab, School of Eart
 Publications
 ======
 
-Conference Paper
-------
+### Conference Paper
+
 * **Yao Liu<sup>*</sup>**, Lina Yao, Binghao Li, Xianzhi Wang, and Claude Sammut, Social Graph Transformer Networks for Pedestrian Trajectory Prediction in Complex Social Scenarios. The 31st ACM International Conference on Information and Knowledge Management (CIKM 2022), Atlanta, Georgia, USA, Oct. 17-22, 2022.
 
-Journal Paper
-------
+### Journal Paper
+ 
 * **Yao Liu<sup>*</sup>**, Lina Yao, Binghao Li, Xiaojun Chang and Claude Sammut, [Interpolation Graph Convolutional Network for 3D Point Cloud Analysis](https://doi.org/10.1002/int.23087), International Journal of Intelligent Systems (IJIS), 2022; 1- 22.
 
 Services
 ======
 
-PC Member
-------
+### PC Member
+
 * The 31st ACM International Conference on Information and Knowledge Management (CIKM-2022) <!-- *6 -->
 
-Conference Reviewer (Sub/External Reviewer)
-------
+### Conference Reviewer (Sub/External Reviewer)
+
 * 2022 
   * The 26th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD-2022) <!-- *2 -->
   * The 27th International Conference on Database Systems for Advanced Applications (DASFAA-2022) <!-- *1 -->
@@ -44,8 +44,8 @@ Conference Reviewer (Sub/External Reviewer)
   * 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR-2021) <!-- *1 --> <!-- ln -->
 
 
-Journal Reviewer (Sub/External Reviewer)
-------
+### Journal Reviewer (Sub/External Reviewer)
+
 * 2022 
   * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)  <!-- *1 --> <!-- ln -->
   * The ACM Transactions on Sensor Networks (TOSN) <!-- *2 -->
@@ -62,14 +62,14 @@ Journal Reviewer (Sub/External Reviewer)
 Teaching
 ======
 
-Research Supervision
-------
+### Research Supervision
+
 * Gangfeng Cui, Master by Research (UNSW), 3D activity recognition, Sep 2021 - Aug 2022, co-supervised with A/Prof. Lina Yao.
 
 * Yuvraj Singh and Peter Li, Undergraduate (UNSW), 3D Point Clouds classification, Jun 2021 - Dec 2021, co-supervised with A/Prof. Lina Yao.
 
-Casual Academic
-------
+### Casual Academic
+
 * TA, COMP 9727, Recommender Systems, 2022 T2, UNSW.
 
 
