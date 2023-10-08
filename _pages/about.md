@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 I am a Ph.D. candidate at the [Data Dynamics group](http://insdata.org/), School of Computer Science and Engineering ([CSE](https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering)), the University of New South Wales ([UNSW](https://www.unsw.edu.au/)), from 2020. 
-My primary supervisor is A/Prof. [Lina Yao](https://www.linayao.com/) and joint supervisor is Dr. [Binghao Li](https://www.unsw.edu.au/staff/binghao-li). My research interests are focused on computer vision and deep learning, mainly in the areas of spatio-temporal data modeling, data mining and analysis, classification, segmentation, detection, and prediction.
+My primary supervisor is Prof. [Lina Yao](https://www.linayao.com/) and joint supervisor is A/Prof. [Binghao Li](https://www.unsw.edu.au/staff/binghao-li). My research interests are focused on computer vision and deep learning, mainly in the areas of spatio-temporal data modeling, data mining and analysis, classification, segmentation, detection, and prediction.
 
 I was a software engineer at Could&AI, Huawei Technology Co., Ltd., from 2019 to 2020.
 Before that, I received my M.S. and B.S. degree from the GIS lab, School of Earth Sciences, Zhejiang University, in 2019 and 2016, respectively.
