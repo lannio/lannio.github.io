@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 I am a Ph.D. candidate at the [Data Dynamics group](http://insdata.org/), School of Computer Science and Engineering ([CSE](https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering)), the University of New South Wales ([UNSW](https://www.unsw.edu.au/)), from 2020. 
 My primary supervisor is Prof. [Lina Yao](https://www.linayao.com/) and joint supervisor is A/Prof. [Binghao Li](https://www.unsw.edu.au/staff/binghao-li). My research interests are focused on computer vision and deep learning, mainly in the areas of spatio-temporal data modeling, data mining and analysis, classification, segmentation, detection, and prediction.
 
@@ -15,7 +16,6 @@ Before that, I received my M.S. and B.S. degree from the GIS lab, School of Eart
 
 
 # Publications
-
 
 ### Conference Paper
 
@@ -27,70 +27,80 @@ Before that, I received my M.S. and B.S. degree from the GIS lab, School of Eart
 
 
 ### Journal Paper
- 
-* **Yao Liu<sup>*</sup>**, Lina Yao, Binghao Li, Xiaojun Chang and Claude Sammut, [Interpolation Graph Convolutional Network for 3D Point Cloud Analysis](https://doi.org/10.1002/int.23087), International Journal of Intelligent Systems (IJIS), 2022; 1- 22.
+
+5. **Yao Liu<sup>#</sup>**, Lina Yao, Binghao Li, Claude Sammut, and Xiaojun Chang, [Interpolation Graph Convolutional Network for 3D Point Cloud Analysis](https://onlinelibrary.wiley.com/doi/abs/10.1002/int.23087). International Journal of Intelligent Systems (IJIS), 2022.
+
+4. Xinqing Song, Fanglin Zhu, Xingchen Cao, Jiawei Liu, Rui Wang, Yi Zhang, and **Yao Liu**, [An IPAVSG Control Strategy for Microgrid With Multi-Parallel VSG System](https://www.frontiersin.org/articles/10.3389/fenrg.2022.915023/full). Frontiers in Energy Research, 2022. 
+
+3. Tianyi Guan, Xin Zhao, Wenjing Zheng, Hu Liu, **Yao Liu**, and Qiuye Sun, [Improved sliding-mode vector control strategy combined with extended reactive power for MMC under unbalanced grid condition](https://www.frontiersin.org/articles/10.3389/fenrg.2022.874533/full). Frontiers in Energy Research, 2022.  
+
+2. **Yao Liu**, Yingzhi Wang, Lijun Wang, Feng Zhang, Zhenhong Du, and Renyi Liu, [Spatial-Temporal Hotspots Analysis of Traffic Accidents](https://www.zjujournals.com/sci/CN/10.3785/j.issn.1008-9497.2020.01.007). Journal of Zhejiang University (Science Edition), 2020. 
+
+1. Jiali Zheng, Feng Zhang, Zhenhong Du, Lifang Lai, Renyi Liu, **Yao Liu**, [Multi-scale analysis of spatial-temporal characteristics of infectious diseases: A case study on gonorrhea, bacillary dysentery and mumps in Hangzhou](https://www.zjujournals.com/sci/CN/10.3785/j.issn.1008-9497.2018.05.013). Journal of Zhejiang University (Science Edition), 2018.
+
+
 
 # Services
 
-
 ### PC Member
 
-* The 31st ACM International Conference on Information and Knowledge Management (CIKM-2022) <!-- *6 -->
+* The 32st ACM International Conference on Information and Knowledge Management (CIKM 2023)
+* The 31st ACM International Conference on Information and Knowledge Management (CIKM 2022)
 
 ### Conference Reviewer (Sub/External Reviewer)
 
-* 2022 
-  * The 26th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD-2022) <!-- *2 -->
-  * The 27th International Conference on Database Systems for Advanced Applications (DASFAA-2022) <!-- *1 -->
-  * The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR-2022) <!-- *1 --> <!-- ln -->
-  * The 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2022) <!-- *2 -->
-* 2021 
-  * The 3th ACM Multimedia Asia conference (MM ASIA-2021)  <!-- *2 --> <!-- ln -->
-  * 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR-2021) <!-- *1 --> <!-- ln -->
+* The 13th International Joint Conference on Natural Language Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL 2023)
+* The 30th International Conference on Neural Information Processing (ICONIP 2023)
+* The 19th anniversary of the International Conference on Advanced Data Mining and Applications (ADMA 2023)
+* The ACM Web Conference 2023 (WWW 2023)
+* The 18th anniversary of the International Conference on Advanced Data Mining and Applications (ADMA 2022)
+* The 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2022)
+* The 26th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2022)
+* The 27th International Conference on Database Systems for Advanced Applications (DASFAA 2022)
 
 
 ### Journal Reviewer (Sub/External Reviewer)
 
-* 2022 
-  * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)  <!-- *1 --> <!-- ln -->
-  * The ACM Transactions on Sensor Networks (TOSN) <!-- *2 -->
-  * IEEE Transactions on Control of Network Systems (TCNS) <!-- *1 --> <!-- wr -->
-  * IEEE Access <!-- *1 --> <!-- wr -->
-  * The IEEE Transaction on Transportation Electrification (TTE)  <!-- *1 --> <!-- wr -->
+* Nature Scientific Reports (Scientific Reports)
+* The ACM Transactions on Recommender Systems (TORS)
+* The ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)
+* The ACM Transactions on Sensor Networks (TOSN)
+* Knowledge-based Systems (KNOSYS)
+* IEEE Transactions on Control of Network Systems (TCNS)
+* IEEE Access
+* IEEE Transaction on Transportation Electrification (TTE)
+* IEEE Transactions on Industrial Informatics (TII)
 
-* 2021 
-  * IEEE Transactions on Industrial Informatics (TII) <!-- *1 --> <!-- wr -->
-  * Knowledge-based Systems (KNOSYS) <!-- *2 -->
  
 
 <!-- ################## -->
-# Teaching
 
+# Teaching
 
 ### Research Supervision
 
-* Gangfeng Cui, Master by Research (UNSW), 3D activity recognition, Sep 2021 - Aug 2022, co-supervised with A/Prof. Lina Yao.
-
-* Yuvraj Singh and Peter Li, Undergraduate (UNSW), 3D Point Clouds classification, Jun 2021 - Dec 2021, co-supervised with A/Prof. Lina Yao.
+* Gangfeng Cui, Master by Research (UNSW), 3D activity recognition, Sep 2021 - Aug 2022, co-supervised with Prof. Lina Yao.
+* Yuvraj Singh and Peter Li, Undergraduate (UNSW), 3D Point Clouds classification, Jun 2021 - Dec 2021, co-supervised with Prof. Lina Yao.
 
 ### Casual Academic
 
 * TA, COMP 9727, Recommender Systems, 2022 T2, UNSW.
 
 
+
 <!-- ################## -->
-<!--
-Academic Exchange
-======
+
+# Academic Exchange
+
 * Aug 2018, Harvard University, Boston, USA.
 * Jul 2015, Tamkang University, Taipei, China.
--->
+
 
 <!-- ################## -->
+
 # Awards
 
-
-* UNSW Tuition Fee Scholarship 2020-2024
+* UNSW Tuition Fee Scholarship 2020-2024 (Ph.D. Period)
 * Excellent Postgraduate Student’s Award of Zhejiang University (M.S. Period)
 * Outstanding Graduates of Zhejiang University (B.S. Period)
 
@@ -99,4 +109,4 @@ Academic Exchange
 
 <!-- ################## -->
 ------
-Updated: Sep. 2022
+Updated: Oct. 2023
