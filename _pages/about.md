@@ -19,7 +19,12 @@ Before that, I received my M.S. and B.S. degree from the GIS lab, School of Eart
 
 ### Conference Paper
 
-* **Yao Liu<sup>*</sup>**, Lina Yao, Binghao Li, Xianzhi Wang, and Claude Sammut, Social Graph Transformer Networks for Pedestrian Trajectory Prediction in Complex Social Scenarios. The 31st ACM International Conference on Information and Knowledge Management (CIKM 2022), Atlanta, Georgia, USA, Oct. 17-22, 2022.
+3. **Yao Liu<sup>#</sup>**, Binghao Li, Claude Summet and Lina Yao, Multi-level Attention Network with Weather Suppression for All-weather Action Detection in UAV Rescue Scenarios. The 2023 International Conference on Neural Information Processing (ICONIP 2023), Changsha, China, November 20 - November 23, 2023.
+
+2. Zesheng Ye, Jing Du, **Yao Liu**, Yihong Zhang and Lina Yao, NP-SSL: A Modular and Extensible Self-supervised Learning Library with Neural Processes. The 32nd ACM International Conference on Information and Knowledge Management (CIKM 2023), University of Birmingham and Eastside Rooms, UK, October 12 - October 25, 2023.
+
+1. **Yao Liu<sup>#</sup>**, Lina Yao, Binghao Li, Xianzhi Wang, and Claude Sammut, [Social Graph Transformer Networks for Pedestrian Trajectory Prediction in Complex Social Scenarios](https://dl.acm.org/doi/abs/10.1145/3511808.3557455). The 31st ACM International Conference on Information and Knowledge Management (CIKM 2022), Atlanta, Georgia, USA, October 17 - October 21, 2022.
+
 
 ### Journal Paper
  
