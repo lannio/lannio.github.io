@@ -13,6 +13,7 @@ My primary supervisor is Prof. [Lina Yao](https://www.linayao.com/) and joint su
 
 I was a software engineer at Could&AI, Huawei Technology Co., Ltd., from 2019 to 2020.
 Before that, I received my M.S. and B.S. degree from the GIS lab, School of Earth Sciences, Zhejiang University, in 2019 and 2016, respectively.
+My supervisors are A/Prof. (Feng Zhang)[https://person.zju.edu.cn/fengzhang#728568], Prof. (Zhenhong Du)[https://person.zju.edu.cn/duzhenhongzju], and Prof. (Renyi Liu)[https://person.zju.edu.cn/0098316].
 
 
 # Publications
