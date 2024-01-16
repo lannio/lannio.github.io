@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 I am a PostDoc Research Fellow at [School of Computing](https://www.mq.edu.au/faculty-of-science-and-engineering/departments-and-schools/school-of-computing), [Macquarie University](https://www.mq.edu.au/) since January 2024, supervised by Prof. [Lina Yao](https://www.linayao.com/) and Prof. [Quan Z. Sheng (Michael)](http://web.science.mq.edu.au/~qsheng/).
+
 Previously, I was a Ph.D. candidate at the [Data Dynamics group](http://insdata.org/), School of Computer Science and Engineering ([CSE](https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering)), the University of New South Wales ([UNSW](https://www.unsw.edu.au/)), from 2020. 
 My primary supervisor is Prof. [Lina Yao](https://www.linayao.com/) and joint supervisor is A/Prof. [Binghao Li](https://www.unsw.edu.au/staff/binghao-li). My research interests are focused on computer vision and deep learning, which mainly involves spatio-temporal data modeling and analysis, including 3D point cloud, trajectory prediction, UAV image and video detection.
 
