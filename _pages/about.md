@@ -21,7 +21,7 @@ My supervisors are A/Prof. Feng Zhang, Prof. Zhenhong Du, and Prof. Renyi Liu.
 
 ### Conference Paper
 
-3. **Yao Liu<sup>#</sup>**, Binghao Li, Claude Summet and Lina Yao, [***Multi-level Attention Network with Weather Suppression for All-weather Action Detection in UAV Rescue Scenarios***](https://link.springer.com/chapter/10.1007/978-981-99-8138-0_43). The 2023 International Conference on Neural Information Processing (ICONIP 2023), Changsha, China, November 20 - November 23, 2023.
+3. **Yao Liu<sup>#</sup>**, Binghao Li, Claude Summet and Lina Yao, [***Multi-level Attention Network with Weather Suppression for All-weather Action Detection in UAV Rescue Scenarios***](https://link.springer.com/chapter/10.1007/978-981-99-8138-0_43). The 2023 International Conference on Neural Information Processing (ICONIP 2023), Changsha, China, 20 November - 23 November, 2023.
 
 2. Zesheng Ye, Jing Du, **Yao Liu**, Yihong Zhang and Lina Yao, [***NP-SSL: A Modular and Extensible Self-supervised Learning Library with Neural Processes***](https://dl.acm.org/doi/10.1145/3583780.3614749). The 32nd ACM International Conference on Information and Knowledge Management (CIKM 2023), University of Birmingham and Eastside Rooms, UK, 12 October - 25 October, 2023.
 
