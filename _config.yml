@@ -10,7 +10,7 @@ locale                   : "en_AU"
 title                    : "Yao LIU's Homepage"
 title_separator          : "-"
 name                     : &name "Yao LIU (刘尧)"
-description              : &description "PhD candidate in CSE, UNSW"
+description              : &description "PostDoc Research Fellow in School of Computing, Macquarie University"
 url                      : https://YaoLiu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YaoLiu.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yao LIU"
   avatar           : "profile_ly.png"
-  bio              : "PhD candidate <br> CSE, UNSW"
+  bio              : "PostDoc Research Fellow <br> School of Computing, Macquarie University"
   location         : "Sydney, Australia"
   employer         :
   pubmed           : 
