@@ -77,6 +77,7 @@ Stochastic Trajectory Prediction.]()
 
 ### Journal Reviewer (Sub/External Reviewer)
 
+* IEEE Transactions on Artificial Intelligence (TAI)
 * IEEE Transactions on Cognitive and Developmental Systems (TCDS)
 * Nature Scientific Reports (Scientific Reports)
 * The ACM Transactions on Recommender Systems (TORS)
