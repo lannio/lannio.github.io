@@ -10,7 +10,7 @@ locale                   : "en_AU"
 title                    : "Yao LIU's Homepage"
 title_separator          : "-"
 name                     : &name "Yao LIU (刘尧)"
-description              : &description "PostDoc Research Fellow in School of Computing, Macquarie University"
+description              : &description "PostDoc Research Associate in School of Computing, Macquarie University"
 url                      : https://YaoLiu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YaoLiu.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Yao LIU"
   avatar           : "profile_ly.png"
-  bio              : "PostDoc Research Fellow <br> School of Computing, Macquarie University"
+  bio              : "PostDoc Research Associate <br> School of Computing, Macquarie University"
   location         : "Sydney, Australia"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com.au/citations?hl=zh-CN&view_op=list_works&authuser=1&gmla=ABOlHiwnod_BHAQm4cXMJD7NrMMxi26RN8VznADCKEXpg42x0x8d7YSVJmGoFMbPcFXhiWAQzXurtm7LDbfjA4B4HE4RPnVSgqVv9kI6IR_QpxqXpx5OGFjqFSasvwzQiMo&user=JsTwAE4AAAAJ"
   email            :
-  researchgate     : 
+  researchgate     : "https://www.researchgate.net/profile/Yao-Liu-89"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      :
   lastfm           :
   linkedin         : 
-  orcid            : 
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-5271-0536"
   pinterest        :
   soundcloud       :
   stackoverflow    :
