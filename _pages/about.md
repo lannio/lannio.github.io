@@ -31,9 +31,9 @@ My supervisors are A/Prof. Feng Zhang, Prof. Zhenhong Du, and Prof. Renyi Liu.
 
 ### Conference Paper
 
-6. Xiaoxuan Li, **Yao Liu**, Ruoyu Wang and Lina Yao, [*** Regularized Multi-LLMs Collaboration for Enhanced Score-based Causal Discovery ***](). The 2024 International Web Information Systems Engineering conference (WISE 2024), Doha, Qatar, 2 December - 5 December, 2024.
+6. Xiaoxuan Li, **Yao Liu**, Ruoyu Wang and Lina Yao, [***Regularized Multi-LLMs Collaboration for Enhanced Score-based Causal Discovery***](). The 2024 International Web Information Systems Engineering conference (WISE 2024), Doha, Qatar, 2 December - 5 December, 2024.
 
-5. Ruoyu Wang, **Yao Liu**, Yuanjiang Cao, Lina Yao, [*** Causality-Aware Transformer Networks for Robotic Navigation ***](). The 2024 International Conference on Neural Information Processing (ICONIP 2024), Auckland, New Zealand, 2 December - 6 December, 2024.
+5. Ruoyu Wang, **Yao Liu**, Yuanjiang Cao, Lina Yao, [***Causality-Aware Transformer Networks for Robotic Navigation***](). The 2024 International Conference on Neural Information Processing (ICONIP 2024), Auckland, New Zealand, 2 December - 6 December, 2024.
 
 4. **Yao Liu<sup>*</sup>**, Ruoyu Wang, Yuanjiang Cao, Quan Z. Sheng, and Lina Yao, [***Multi-agent Traffic Prediction via Denoised Endpoint Distribution***](). The 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024), Abu Dhabi, UAE, 14 October – 18 October, 2024.
 
