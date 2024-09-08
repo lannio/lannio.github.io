@@ -67,7 +67,12 @@ person interaction recognition***](https://dl.acm.org/doi/abs/10.1145/3639470). 
 
 ### Pre Print 
 
-1. **Yao Liu<sup>*</sup>**, Jinzhu Yang, Quan Z. Sheng, and Lina Yao, [***Synchronized Trajectory Prediction for Hybrid Multi-agent via Attention-Denoised End point Distribution***]().
+3. **Yao Liu<sup>*</sup>**, Quan Z. Sheng, and Lina Yao, [***Stochastic Trajectory Prediction via Energy Plan Denoising***]().
+ 
+2. **Yao Liu<sup>*</sup>**, Jinzhu Yang, Quan Z. Sheng, and Lina Yao, [***Synchronized Trajectory Prediction for Hybrid Multi-agent via Attention-Denoised End point Distribution***]().
+
+1. Yuanjiang Cao, **Yao Liu**, Ruoyu Wang, Quan Z. Sheng, Lina Yao, [***Improving Efficiency of Unsupervised Skill Discovery by Pre-trained Skill Encoder in Robotic Learning***]().
+
 
 *The symbol * denotes the corresponding author, while # indicates authors who contributed equally.*
 
