@@ -67,7 +67,7 @@ person interaction recognition***](https://dl.acm.org/doi/abs/10.1145/3639470). 
 
 ### Pre Print 
 
-1. **Yao Liu<sup>*</sup>**, Jinzhu Yang, Quan Z. Sheng, and Lina Yao, [*** Synchronized Trajectory Prediction for Hybrid Multi-agent via Attention-Denoised End point Distribution ***]().
+1. **Yao Liu<sup>*</sup>**, Jinzhu Yang, Quan Z. Sheng, and Lina Yao, [***Synchronized Trajectory Prediction for Hybrid Multi-agent via Attention-Denoised End point Distribution***]().
 
 *The symbol * denotes the corresponding author, while # indicates authors who contributed equally.*
 
