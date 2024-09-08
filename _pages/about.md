@@ -7,7 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a Lecturer at the School of Computer Science and Engineering, Northeastern University, Shenyang, China, since July 2024. 
+<!-- Additionally, I serve as an Honorary Assistant Professor at the School of Computing, Macquarie University, Australia.-->
+My research focuses on computer vision and deep learning, particularly in spatio-temporal data modeling and analysis, including 3D point clouds, trajectory prediction, UAV image and video detection, and human action recognition.
 
+Since January 2024, I have been a Postdoctoral Research Fellow at the School of Computing, Macquarie University, under the supervision of Prof. Lina Yao and Prof. Quan Z. Sheng (Michael). 
+Previously, I was a Ph.D. candidate in the Data Dynamics group at the School of Computer Science and Engineering (CSE), University of New South Wales (UNSW), from 2020. My primary supervisor was Prof. Lina Yao, with A/Prof. Binghao Li as my joint supervisor.
+
+I worked as a software engineer at Cloud&AI, Huawei Technologies Co., Ltd., from 2019 to 2020. Prior to that, I obtained my M.S. and B.S. degrees from the GIS Lab, School of Earth Sciences, Zhejiang University, in 2019 and 2016, respectively, under the supervision of A/Prof. Feng Zhang, Prof. Zhenhong Du, and Prof. Renyi Liu.
+
+<!-- 
 I am a PostDoc Research Fellow at [School of Computing](https://www.mq.edu.au/faculty-of-science-and-engineering/departments-and-schools/school-of-computing), [Macquarie University](https://www.mq.edu.au/) since January 2024, supervised by Prof. [Lina Yao](https://www.linayao.com/) and Prof. [Quan Z. Sheng (Michael)](http://web.science.mq.edu.au/~qsheng/).
 
 Previously, I was a Ph.D. candidate at the [Data Dynamics group](http://insdata.org/), School of Computer Science and Engineering ([CSE](https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering)), the University of New South Wales ([UNSW](https://www.unsw.edu.au/)), from 2020. 
@@ -16,26 +25,36 @@ My primary supervisor is Prof. [Lina Yao](https://www.linayao.com/) and joint su
 I was a software engineer at Could&AI, Huawei Technology Co., Ltd., from 2019 to 2020.
 Before that, I received my M.S. and B.S. degree from the GIS lab, School of Earth Sciences, Zhejiang University, in 2019 and 2016, respectively.
 My supervisors are A/Prof. Feng Zhang, Prof. Zhenhong Du, and Prof. Renyi Liu.
-
+-->
 
 # Publications
 
 ### Conference Paper
 
-3. **Yao Liu<sup>#</sup>**, Binghao Li, Claude Summet and Lina Yao, [***Multi-level Attention Network with Weather Suppression for All-weather Action Detection in UAV Rescue Scenarios***](https://link.springer.com/chapter/10.1007/978-981-99-8138-0_43). The 2023 International Conference on Neural Information Processing (ICONIP 2023), Changsha, China, 20 November - 23 November, 2023.
+6.
+
+5.
+
+4.
+
+3. **Yao Liu<sup>*</sup>**, Binghao Li, Claude Summet and Lina Yao, [***Multi-level Attention Network with Weather Suppression for All-weather Action Detection in UAV Rescue Scenarios***](https://link.springer.com/chapter/10.1007/978-981-99-8138-0_43). The 2023 International Conference on Neural Information Processing (ICONIP 2023), Changsha, China, 20 November - 23 November, 2023.
 
 2. Zesheng Ye, Jing Du, **Yao Liu**, Yihong Zhang and Lina Yao, [***NP-SSL: A Modular and Extensible Self-supervised Learning Library with Neural Processes***](https://dl.acm.org/doi/10.1145/3583780.3614749). The 32nd ACM International Conference on Information and Knowledge Management (CIKM 2023), University of Birmingham and Eastside Rooms, UK, 12 October - 25 October, 2023.
 
-1. **Yao Liu<sup>#</sup>**, Lina Yao, Binghao Li, Xianzhi Wang, and Claude Sammut, [***Social Graph Transformer Networks for Pedestrian Trajectory Prediction in Complex Social Scenarios***](https://dl.acm.org/doi/abs/10.1145/3511808.3557455). The 31st ACM International Conference on Information and Knowledge Management (CIKM 2022), Atlanta, Georgia, USA, 17 October - 21 October, 2022.
+1. **Yao Liu<sup>*</sup>**, Lina Yao, Binghao Li, Xianzhi Wang, and Claude Sammut, [***Social Graph Transformer Networks for Pedestrian Trajectory Prediction in Complex Social Scenarios***](https://dl.acm.org/doi/abs/10.1145/3511808.3557455). The 31st ACM International Conference on Information and Knowledge Management (CIKM 2022), Atlanta, Georgia, USA, 17 October - 21 October, 2022.
 
 
 ### Journal Paper
 
-6. **Yao Liu<sup>#</sup>**, Gangfeng Cui, Jiahui Luo, Xiaojun Chang, and Lina Yao, [***Two-stream multi-level dynamic point transformer for two-
+1. **Yao Liu<sup>#</sup>**, Binghao Li, Xianzhi Wang, Claude Sammut, and Lina Yao, [Attention-aware Social Graph Transformer Networks for
+Stochastic Trajectory Prediction.]()
+
+3. **Yao Liu<sup>#*</sup>**, Zesheng Ye<sup>#</sup>, Binghao Li, Quan Z. Sheng, and Lina Yao, [Uncertainty-Aware Pedestrian Trajectory Prediction via Distributional Diffusion.]()
+
+6. **Yao Liu<sup>#*</sup>**, Gangfeng Cui<sup>#</sup>, Jiahui Luo, Xiaojun Chang, and Lina Yao, [***Two-stream multi-level dynamic point transformer for two-
 person interaction recognition***](https://dl.acm.org/doi/abs/10.1145/3639470). ACM Transactions on Multimedia Computing Communications and Applications (TOMM), 2024.
 
-
-5. **Yao Liu<sup>#</sup>**, Lina Yao, Binghao Li, Claude Sammut, and Xiaojun Chang, [***Interpolation Graph Convolutional Network for 3D Point Cloud Analysis***](https://onlinelibrary.wiley.com/doi/abs/10.1002/int.23087). International Journal of Intelligent Systems (IJIS), 2022.
+5. **Yao Liu<sup>*</sup>**, Lina Yao, Binghao Li, Claude Sammut, and Xiaojun Chang, [***Interpolation Graph Convolutional Network for 3D Point Cloud Analysis***](https://onlinelibrary.wiley.com/doi/abs/10.1002/int.23087). International Journal of Intelligent Systems (IJIS), 2022.
 
 4. Xinqing Song, Fanglin Zhu, Xingchen Cao, Jiawei Liu, Rui Wang, Yi Zhang, and **Yao Liu**, [***An IPAVSG Control Strategy for Microgrid With Multi-Parallel VSG System***](https://www.frontiersin.org/articles/10.3389/fenrg.2022.915023/full). Frontiers in Energy Research, 2022. 
 
@@ -48,11 +67,9 @@ person interaction recognition***](https://dl.acm.org/doi/abs/10.1145/3639470). 
 
 ### Pre Print 
 
-2. **Yao Liu<sup>#</sup>**, Zesheng Ye, Binghao Li, Quan Z. Sheng, and Lina Yao, [Uncertainty-Aware Pedestrian Trajectory Prediction via Distri-
-butional Diffusion.]()
 
-1. **Yao Liu<sup>#</sup>**, Binghao Li, Xianzhi Wang, Claude Sammut, and Lina Yao, [Attention-aware Social Graph Transformer Networks for
-Stochastic Trajectory Prediction.]()
+
+
 
 # Services
 
