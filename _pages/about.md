@@ -31,25 +31,25 @@ My supervisors are A/Prof. Feng Zhang, Prof. Zhenhong Du, and Prof. Renyi Liu.
 
 ### Conference Paper
 
-6.
+6. Xiaoxuan Li, **Yao Liu**, Ruoyu Wang and Lina Yao, [*** Regularized Multi-LLMs Collaboration for Enhanced Score-based Causal Discovery ***](). The 2024 International Web Information Systems Engineering conference (WISE 2024), Doha, Qatar, 2 December - 5 December, 2024.
 
-5.
+5. Ruoyu Wang, **Yao Liu**, Yuanjiang Cao, Lina Yao, [*** Causality-Aware Transformer Networks for Robotic Navigation ***](). The 2024 International Conference on Neural Information Processing (ICONIP 2024), Auckland, New Zealand, 2 December - 6 December, 2024.
 
-4.
+4. **Yao Liu<sup>*</sup>**, Ruoyu Wang, Yuanjiang Cao, Quan Z. Sheng, and Lina Yao, [***Multi-agent Traffic Prediction via Denoised Endpoint Distribution***](). The 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024), Abu Dhabi, UAE, 14 October – 18 October, 2024.
 
-3. **Yao Liu<sup>*</sup>**, Binghao Li, Claude Summet and Lina Yao, [***Multi-level Attention Network with Weather Suppression for All-weather Action Detection in UAV Rescue Scenarios***](https://link.springer.com/chapter/10.1007/978-981-99-8138-0_43). The 2023 International Conference on Neural Information Processing (ICONIP 2023), Changsha, China, 20 November - 23 November, 2023.
+3. **Yao Liu<sup>*</sup>**, Binghao Li, Claude Summet, and Lina Yao, [***Multi-level Attention Network with Weather Suppression for All-weather Action Detection in UAV Rescue Scenarios***](https://link.springer.com/chapter/10.1007/978-981-99-8138-0_43). The 2023 International Conference on Neural Information Processing (ICONIP 2023), Changsha, China, 20 November - 23 November, 2023.
 
-2. Zesheng Ye, Jing Du, **Yao Liu**, Yihong Zhang and Lina Yao, [***NP-SSL: A Modular and Extensible Self-supervised Learning Library with Neural Processes***](https://dl.acm.org/doi/10.1145/3583780.3614749). The 32nd ACM International Conference on Information and Knowledge Management (CIKM 2023), University of Birmingham and Eastside Rooms, UK, 12 October - 25 October, 2023.
+2. Zesheng Ye, Jing Du, **Yao Liu**, Yihong Zhang, and Lina Yao, [***NP-SSL: A Modular and Extensible Self-supervised Learning Library with Neural Processes***](https://dl.acm.org/doi/10.1145/3583780.3614749). The 32nd ACM International Conference on Information and Knowledge Management (CIKM 2023), University of Birmingham and Eastside Rooms, UK, 12 October - 25 October, 2023.
 
 1. **Yao Liu<sup>*</sup>**, Lina Yao, Binghao Li, Xianzhi Wang, and Claude Sammut, [***Social Graph Transformer Networks for Pedestrian Trajectory Prediction in Complex Social Scenarios***](https://dl.acm.org/doi/abs/10.1145/3511808.3557455). The 31st ACM International Conference on Information and Knowledge Management (CIKM 2022), Atlanta, Georgia, USA, 17 October - 21 October, 2022.
 
 
 ### Journal Paper
 
-1. **Yao Liu<sup>#</sup>**, Binghao Li, Xianzhi Wang, Claude Sammut, and Lina Yao, [Attention-aware Social Graph Transformer Networks for
-Stochastic Trajectory Prediction.]()
+8. **Yao Liu<sup>#</sup>**, Binghao Li, Xianzhi Wang, Claude Sammut, and Lina Yao, [Attention-aware Social Graph Transformer Networks for
+Stochastic Trajectory Prediction](). IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024.
 
-3. **Yao Liu<sup>#*</sup>**, Zesheng Ye<sup>#</sup>, Binghao Li, Quan Z. Sheng, and Lina Yao, [Uncertainty-Aware Pedestrian Trajectory Prediction via Distributional Diffusion.]()
+7. **Yao Liu<sup>#*</sup>**, Zesheng Ye<sup>#</sup>, Rui Wang, Binghao Li, Quan Z. Sheng, and Lina Yao, [Uncertainty-Aware Pedestrian Trajectory Prediction via Distributional Diffusion](). Knowledge-Based Systems (KBS), 2024.
 
 6. **Yao Liu<sup>#*</sup>**, Gangfeng Cui<sup>#</sup>, Jiahui Luo, Xiaojun Chang, and Lina Yao, [***Two-stream multi-level dynamic point transformer for two-
 person interaction recognition***](https://dl.acm.org/doi/abs/10.1145/3639470). ACM Transactions on Multimedia Computing Communications and Applications (TOMM), 2024.
@@ -67,7 +67,7 @@ person interaction recognition***](https://dl.acm.org/doi/abs/10.1145/3639470). 
 
 ### Pre Print 
 
-
+1. **Yao Liu<sup>*</sup>**, Jinzhu Yang, Quan Z. Sheng, and Lina Yao, [*** Synchronized Trajectory Prediction for Hybrid Multi-agent via Attention-Denoised End point Distribution ***]().
 
 
 
@@ -75,14 +75,16 @@ person interaction recognition***](https://dl.acm.org/doi/abs/10.1145/3639470). 
 
 ### PC Member
 
-
+* The 2025 Web Conference 2025 (WWW 2025)
+* The 2024 IEEE International Conference on Big Data (IEEE BigData 2024)
+* The 33st ACM International Conference on Information and Knowledge Management (CIKM 2024)
 * The 32st ACM International Conference on Information and Knowledge Management (CIKM 2023)
 * The 31st ACM International Conference on Information and Knowledge Management (CIKM 2022)
 
 ### Conference Reviewer (Sub/External Reviewer)
 
 * The 26th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2024)
-* The 13th International Joint Conference on Natural Language Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL 2023)
+<!--* The 13th International Joint Conference on Natural Language Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL 2023) -->
 * The 30th International Conference on Neural Information Processing (ICONIP 2023)
 * The 19th anniversary of the International Conference on Advanced Data Mining and Applications (ADMA 2023)
 * The ACM Web Conference 2023 (WWW 2023)
@@ -96,13 +98,13 @@ person interaction recognition***](https://dl.acm.org/doi/abs/10.1145/3639470). 
 
 * IEEE Transactions on Artificial Intelligence (TAI)
 * IEEE Transactions on Cognitive and Developmental Systems (TCDS)
-* Nature Scientific Reports (Scientific Reports)
+<!--*  Nature Scientific Reports (Scientific Reports) -->
 * The ACM Transactions on Recommender Systems (TORS)
 * The ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)
 * The ACM Transactions on Sensor Networks (TOSN)
 * Knowledge-based Systems (KNOSYS)
 * IEEE Transactions on Control of Network Systems (TCNS)
-* IEEE Access
+<!--* IEEE Access -->
 * IEEE Transaction on Transportation Electrification (TTE)
 * IEEE Transactions on Industrial Informatics (TII)
 
@@ -122,7 +124,6 @@ Yao
 ### Casual Academic
 
 * TA, COMP 9727, Recommender Systems, 2022 T2, UNSW.
-
 
 
 <!-- ################## -->
@@ -146,4 +147,4 @@ Yao
 
 <!-- ################## -->
 ------
-Updated: Jun. 2024
+Updated: Sep. 2024
