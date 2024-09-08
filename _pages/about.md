@@ -46,7 +46,7 @@ My supervisors are A/Prof. Feng Zhang, Prof. Zhenhong Du, and Prof. Renyi Liu.
 
 ### Journal Paper
 
-8. **Yao Liu<sup>*</sup>**, Binghao Li, Xianzhi Wang, Claude Sammut, and Lina Yao, [Attention-aware Social Graph Transformer Networks for
+8. **Yao Liu**, Binghao Li, Xianzhi Wang, Claude Sammut, and Lina Yao, [Attention-aware Social Graph Transformer Networks for
 Stochastic Trajectory Prediction](). IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024.
 
 7. **Yao Liu<sup>#*</sup>**, Zesheng Ye<sup>#</sup>, Rui Wang, Binghao Li, Quan Z. Sheng, and Lina Yao, [Uncertainty-Aware Pedestrian Trajectory Prediction via Distributional Diffusion](). Knowledge-Based Systems (KBS), 2024.
