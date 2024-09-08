@@ -11,7 +11,7 @@ I am a Lecturer at the School of Computer Science and Engineering, Northeastern 
 <!-- Additionally, I serve as an Honorary Assistant Professor at the School of Computing, Macquarie University, Australia.-->
 My research focuses on computer vision and deep learning, particularly in spatio-temporal data modeling and analysis, including 3D point clouds, trajectory prediction, UAV image and video detection, and human action recognition.
 
-Since January 2024, I have been a Postdoctoral Research Fellow at the School of Computing, Macquarie University, under the supervision of Prof. Lina Yao and Prof. Quan Z. Sheng (Michael). 
+Since January 2024, I have been a Postdoctoral Research Associate at the School of Computing, Macquarie University, under the supervision of Prof. Lina Yao and Prof. Quan Z. Sheng (Michael). 
 Previously, I was a Ph.D. candidate in the Data Dynamics group at the School of Computer Science and Engineering (CSE), University of New South Wales (UNSW), from 2020. My primary supervisor was Prof. Lina Yao, with A/Prof. Binghao Li as my joint supervisor.
 
 I worked as a software engineer at Cloud&AI, Huawei Technologies Co., Ltd., from 2019 to 2020. Prior to that, I obtained my M.S. and B.S. degrees from the GIS Lab, School of Earth Sciences, Zhejiang University, in 2019 and 2016, respectively, under the supervision of A/Prof. Feng Zhang, Prof. Zhenhong Du, and Prof. Renyi Liu.
