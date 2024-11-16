@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/b47a3a8f-8dee-4a64-a406-b56c6f2dd0d7)---
 permalink: /
 title: "About me"
 excerpt: "About me"
@@ -7,14 +7,22 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a Lecturer at the School of Computer Science and Engineering, Northeastern University, Shenyang, China, starting July 2024. Concurrently, I hold an Honorary Lecturer position at the School of Computing, Macquarie University, Australia. My research centers on computer vision and deep learning, with a focus on spatio-temporal data modeling and analysis. Key areas include medical imaging, 3D point clouds, trajectory prediction, UAV image and video detection, and human action recognition.
+
+Since January 2024, I have been a Postdoctoral Research Associate at the School of Computing, Macquarie University, working under the supervision of Prof. Lina Yao and Prof. Quan Z. Sheng (Michael). I completed my Ph.D. as part of the Data Dynamics group at the School of Computer Science and Engineering, University of New South Wales (UNSW), from 2020 to 2023. My doctoral research was supervised by Prof. Lina Yao, with A/Prof. Binghao Li as a joint supervisor.
+
+Before academia, I worked as a Software Engineer at Cloud & AI, Huawei Technologies Co., Ltd., from 2019 to 2020. I earned my M.S. (2019) and B.S. (2016) degrees from the GIS Lab, School of Earth Sciences, Zhejiang University, under the guidance of A/Prof. Feng Zhang, Prof. Zhenhong Du, and Prof. Renyi Liu.
+
+<!-- 
 I am a Lecturer at the School of Computer Science and Engineering, Northeastern University, Shenyang, China, since July 2024. 
-<!-- Additionally, I serve as an Honorary Assistant Professor at the School of Computing, Macquarie University, Australia.-->
-My research focuses on computer vision and deep learning, particularly in spatio-temporal data modeling and analysis, including 3D point clouds, trajectory prediction, UAV image and video detection, and human action recognition.
+Additionally, I serve as an Honorary Lecturer at the School of Computing, Macquarie University, Australia.
+My research focuses on computer vision and deep learning, particularly in spatio-temporal data modeling and analysis, including medical imaging, 3D point clouds, trajectory prediction, UAV image and video detection, and human action recognition.
 
 Since January 2024, I have been a Postdoctoral Research Associate at the School of Computing, Macquarie University, under the supervision of Prof. Lina Yao and Prof. Quan Z. Sheng (Michael). 
 Previously, I was a Ph.D. candidate in the Data Dynamics group at the School of Computer Science and Engineering (CSE), University of New South Wales (UNSW), from 2020. My primary supervisor was Prof. Lina Yao, with A/Prof. Binghao Li as my joint supervisor.
 
 I worked as a software engineer at Cloud&AI, Huawei Technologies Co., Ltd., from 2019 to 2020. Prior to that, I obtained my M.S. and B.S. degrees from the GIS Lab, School of Earth Sciences, Zhejiang University, in 2019 and 2016, respectively, under the supervision of A/Prof. Feng Zhang, Prof. Zhenhong Du, and Prof. Renyi Liu.
+-->
 
 <!-- 
 I am a PostDoc Research Fellow at [School of Computing](https://www.mq.edu.au/faculty-of-science-and-engineering/departments-and-schools/school-of-computing), [Macquarie University](https://www.mq.edu.au/) since January 2024, supervised by Prof. [Lina Yao](https://www.linayao.com/) and Prof. [Quan Z. Sheng (Michael)](http://web.science.mq.edu.au/~qsheng/).
@@ -83,6 +91,8 @@ person interaction recognition***](https://dl.acm.org/doi/abs/10.1145/3639470). 
 
 <!-- Honghe LI;  Hongfei Wang;  Qi yu -->
 
+<!-- Xiaojian Wang; Bo Wang; Mingyuan Shi -->
+
 
 *The symbol * denotes the corresponding author, while # indicates authors who contributed equally.*
 
@@ -91,37 +101,63 @@ person interaction recognition***](https://dl.acm.org/doi/abs/10.1145/3639470). 
 ### PC Member
 
 * The 2025 Web Conference 2025 (WWW 2025)
+* The 2024 International Conference on Neural Information Processing (ICONIP 2024)
 * The 2024 IEEE International Conference on Big Data (IEEE BigData 2024)
 * The 33st ACM International Conference on Information and Knowledge Management (CIKM 2024)
 * The 32st ACM International Conference on Information and Knowledge Management (CIKM 2023)
-* The 31st ACM International Conference on Information and Knowledge Management (CIKM 2022)
+
 
 ### Conference Reviewer (Sub/External Reviewer)
 
+* The 38 Annual Conference on Neural Information Processing Systems （NIPS 2024）
+* The European Conference on Computer Vision (ECCV 2024)
+* The 20th anniversary of the International Conference on Advanced Data Mining and Applications (ADMA 2024)
 * The 26th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2024)
+* The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024) 
+* The 28th AAAI Conference on Artificial Intelligence (AAAI 2024)
+* The 2023 International Conference on Neural Information Processing (ICONIP 2023)
 <!--* The 13th International Joint Conference on Natural Language Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL 2023) -->
 * The 30th International Conference on Neural Information Processing (ICONIP 2023)
-* The 19th anniversary of the International Conference on Advanced Data Mining and Applications (ADMA 2023)
+* The 19th International Conference on Advanced Data Mining and Applications (ADMA 2023)
+* The 37 Annual Conference on Neural Information Processing Systems （NIPS 2023）
+* The 27th AAAI Conference on Artificial Intelligence (AAAI 2023)
+* The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023)
+* The International Conference on Computer Vision (ICCV 2023)
 * The ACM Web Conference 2023 (WWW 2023)
-* The 18th anniversary of the International Conference on Advanced Data Mining and Applications (ADMA 2022)
+* The 31st ACM International Conference on Information and Knowledge Management （CIKM 2022）
+* The IEEE International Conference on Data Mining (ICDM 2022)
+* The 18th International Conference on Advanced Data Mining and Applications (ADMA 2022)
 * The 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2022)
 * The 26th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2022)
 * The 27th International Conference on Database Systems for Advanced Applications (DASFAA 2022)
+* The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2022) 
+* The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2022)
+* The ACM Multimedia Asia (MM-ASIA 2021)
+
+
+
 
 
 ### Journal Reviewer (Sub/External Reviewer)
 
-* IEEE Transactions on Artificial Intelligence (TAI)
-* IEEE Transactions on Cognitive and Developmental Systems (TCDS)
-<!--*  Nature Scientific Reports (Scientific Reports) -->
-* The ACM Transactions on Recommender Systems (TORS)
-* The ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)
-* The ACM Transactions on Sensor Networks (TOSN)
-* Knowledge-based Systems (KNOSYS)
-* IEEE Transactions on Control of Network Systems (TCNS)
-<!--* IEEE Access -->
-* IEEE Transaction on Transportation Electrification (TTE)
-* IEEE Transactions on Industrial Informatics (TII)
+* Knowledge-based Systems (KNOSYS) <!-- CCF-C; JCR-7.2/Q1; ZKY-Q1 TOP -->
+* International Journal of Intelligent Systems (IJIS) <!-- CCF-C; JCR-5.0/Q1; ZKY-Q2 TOP-->
+* The ACM Transactions on Recommender Systems (TORS) <!-- JCR-5.4/Q1 ; ZKY-Q2 -->
+* IEEE Transactions on Artificial Intelligence (TAI) <!-- -->
+* IEEE Transactions on Services Computing (TSC) <!-- JCR-5.5/Q1 ; ZKY-Q2 -->
+* Tsinghua Science and Technology (TST) <!-- JCR-5.2/Q1 ; ZKY-Q1 -->
+* Nature Scientific Reports (Scientific Reports)  <!-- JCR-3.8/Q1; ZKY-Q2 -->
+* The ACM Transactions on Sensor Networks (TOSN) <!-- JCR-3.9/Q21 ; ZKY-Q4 -->
+* The ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP) <!-- JCR-1.8/Q3; ZKY-Q4 -->
+* IEEE Transactions on Cognitive and Developmental Systems (TCDS) <!-- JCR-5.0/Q1 ; ZKY-Q3 -->
+* IEEE Transactions on Control of Network Systems (TCNS)  <!-- JCR-4.0/Q1; ZKY-Q3 -->
+* IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)  <!-- JCR-8.3/Q1; ZKY-Q1 TOP -->
+* IEEE-ACM TRANSACTIONS ON NETWORKING  <!-- JCR-3.0/Q2; ZKY-Q2 -->
+<!--* IEEE Access 2020预警 JCR-3.4/Q2ZKY-Q3 -->
+* IEEE Transaction on Transportation Electrification (TTE) <!-- JCR-7.2/Q1; ZKY-Q1 TOP -->
+* IEEE Transactions on Industrial Informatics (TII) <!-- JCR-11.7/Q1; ZKY-Q1 TOP -->
+<!-- * IET Renewable Power Generation  JCR-2.6/Q2; ZKY-Q4 -->
+<!--* Engineering Reports  JCR-1.8/Q3-->
 
  
 
@@ -130,11 +166,13 @@ person interaction recognition***](https://dl.acm.org/doi/abs/10.1145/3639470). 
 # Teaching
 
 ### Research Supervision
-
-* Maodong Li, Master (UNSW), Diffusion Modeling and Reinforcement Learning, Oct 2023 - May 2024, co-supervised with Prof. Lina
-Yao
+* Xiaojian Wang, Master (NEU/2023), Image Detection,  Oct 2023 - Present, co-supervised with A/Prof. Rui Wang.
+* Yuanming Shi, Master (NEU/2024), Intelligent Detection,  Oct 2023 - Present, co-supervised with A/Prof. Rui Wang.
+* Bo Wang, Master (Shenyang University of Technology/2023), Trajectory Prediction,  Oct 2023 - Present, co-supervised with A/Prof. Rui Wang.
+* Maodong Li, Master (UNSW), Diffusion Modeling and Reinforcement Learning, Oct 2023 - May 2024, co-supervised with Prof. Lina Yao.
 * Gangfeng Cui, Master by Research (UNSW), 3D activity recognition, Sep 2021 - Aug 2022, co-supervised with Prof. Lina Yao.
 * Yuvraj Singh and Peter Li, Undergraduate (UNSW), 3D Point Clouds classification, Jun 2021 - Dec 2021, co-supervised with Prof. Lina Yao.
+<!-- 吴春壮 4个毕设-->
 
 ### Casual Academic
 
@@ -159,7 +197,6 @@ Yao
 
 
 
-
 <!-- ################## -->
 ------
-Updated: Sep. 2024
+Updated: Nov. 2024
