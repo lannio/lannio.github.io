@@ -69,11 +69,19 @@ person interaction recognition***](https://dl.acm.org/doi/abs/10.1145/3639470). 
 
 ### Pre Print 
 
-3. **Yao Liu<sup>*</sup>**, Quan Z. Sheng, and Lina Yao, [***Stochastic Trajectory Prediction via Energy Plan Denoising***]().
- 
-2. **Yao Liu<sup>*</sup>**, Jinzhu Yang, Quan Z. Sheng, and Lina Yao, [***Synchronized Trajectory Prediction for Hybrid Multi-agent via Attention-Denoised End point Distribution***]().
 
-1. Yuanjiang Cao, **Yao Liu**, Ruoyu Wang, Quan Z. Sheng, Lina Yao, [***Improving Efficiency of Unsupervised Skill Discovery by Pre-trained Skill Encoder in Robotic Learning***]().
+ 
+1. **Yao Liu<sup>*</sup>**, Jinzhu Yang, Quan Z. Sheng, and Lina Yao, [***Synchronized Trajectory Prediction for Hybrid Multi-agent via Attention-Denoised End point Distribution***](). <!-- TAAS -->
+
+2. **Yao Liu<sup>*</sup>**, Ruoyu Wang, Quan Z. Sheng, Lina Yao, [***Modeling Pedestrian Intrinsic Uncertainty for Multimodal Stochastic Trajectory Prediction via Energy Plan Denoising***](). <!-- ICRA 2025 -->
+  
+3. Ruoyu Wang, Tong Yu, **Yao Liu**, Lina Yao, [***Weakly-supervised VLM-guided Partial Contrastive Learning for Visual Language Navigation***](). <!-- ICRA 2025 -->
+
+4. Song Sun, Danyang Song, Jinzhu Yang, Zhitao Zhang, Qi Yu, Haiyang Sun, Yangyang Li, **Yao Liu**, [***STENet: A Multi-task Segmentation Network with Spatial Topology Enhancement for Fetal Echocardiography***](). <!-- Expert Systems With Applications -->
+
+<!--5. Ruoyu Wang, TIST， CCF B -->
+
+<!-- Honghe LI;  Hongfei Wang;  Qi yu -->
 
 
 *The symbol * denotes the corresponding author, while # indicates authors who contributed equally.*
