@@ -1,5 +1,5 @@
 ---
-title: "Teaching"
+title: "Teaching and Supervision"
 permalink: /teaching/
 ---
 
