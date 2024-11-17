@@ -4,7 +4,7 @@ permalink: /publications/
 ---
 
 
-### Conference Paper
+## Conference Paper
 
 7. Xiaoxuan Li, **Yao Liu**, Ruoyu Wang and Lina Yao, [***Regularized Multi-LLMs Collaboration for Enhanced Score-based Causal Discovery***](). The 2024 International Web Information Systems Engineering conference (WISE 2024), Doha, Qatar, 2 December - 5 December, 2024. <!-- CCF-C; CORE-B -->
 
@@ -21,7 +21,7 @@ permalink: /publications/
 1. **Yao Liu<sup>*</sup>**, Lina Yao, Binghao Li, Xianzhi Wang, and Claude Sammut, [***Social Graph Transformer Networks for Pedestrian Trajectory Prediction in Complex Social Scenarios***](https://dl.acm.org/doi/abs/10.1145/3511808.3557455). The 31st ACM International Conference on Information and Knowledge Management (CIKM 2022), Atlanta, Georgia, USA, 17 October - 21 October, 2022. <!-- CCF-B; CORE-A -->
 
 
-### Journal Paper
+## Journal Paper
 
 8. **Yao Liu<sup>#*</sup>**, Zesheng Ye<sup>#</sup>, Rui Wang, Binghao Li, Quan Z. Sheng, and Lina Yao, [Uncertainty-Aware Pedestrian Trajectory Prediction via Distributional Diffusion](https://www.sciencedirect.com/science/article/pii/S0950705124004969). Knowledge-Based Systems (KNOSYS/KBS), 19 July 2024. <!-- CCF-C; JCR-7.2/Q1; ZKY-Q1 TOP -->
 
@@ -42,7 +42,7 @@ person interaction recognition***](https://dl.acm.org/doi/abs/10.1145/3639470). 
 1. Jiali Zheng, Feng Zhang, Zhenhong Du, Lifang Lai, Renyi Liu, **Yao Liu**, [***Multi-scale analysis of spatial-temporal characteristics of infectious diseases: A case study on gonorrhea, bacillary dysentery and mumps in Hangzhou***](https://www.zjujournals.com/sci/CN/10.3785/j.issn.1008-9497.2018.05.013). Journal of Zhejiang University (Science Edition), 2018. <!-- Chinese Core-->
 
 
-### Pre Print 
+## Pre Print 
 
 
  
