@@ -5,7 +5,7 @@ permalink: /services/
 
 
 
-### PC Member
+## PC Member
 
 * The 2025 Web Conference 2025 (WWW 2025)
 * The 2024 International Conference on Neural Information Processing (ICONIP 2024)
@@ -14,7 +14,7 @@ permalink: /services/
 * The 32st ACM International Conference on Information and Knowledge Management (CIKM 2023)
 
 
-### Conference Reviewer (Sub/External Reviewer)
+## Conference Reviewer (Sub/External Reviewer)
 
 * The 38 Annual Conference on Neural Information Processing Systems （NIPS 2024）
 * The European Conference on Computer Vision (ECCV 2024)
@@ -45,7 +45,7 @@ permalink: /services/
 
 
 
-### Journal Reviewer (Sub/External Reviewer)
+## Journal Reviewer (Sub/External Reviewer)
 
 * Knowledge-based Systems (KNOSYS) <!-- CCF-C; JCR-7.2/Q1; ZKY-Q1 TOP -->
 * International Journal of Intelligent Systems (IJIS) <!-- CCF-C; JCR-5.0/Q1; ZKY-Q2 TOP-->
