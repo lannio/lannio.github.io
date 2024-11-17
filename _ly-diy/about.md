@@ -31,7 +31,7 @@ My supervisors are A/Prof. Feng Zhang, Prof. Zhenhong Du, and Prof. Renyi Liu.
 
 # Work Experience
 * Jul 2024 to Present, Lecturer, School of Computer Science and Engineering, Northeastern University
-* Jul 2024 to Present, Honorary Lecturer, School of Computing, Macquarie University
+* Oct 2024 to Present, Honorary Lecturer, School of Computing, Macquarie University
 * Jan 2024 to Jun 2024, Postdoctoral Research Associate, School of Computing, Macquarie University
 * Jun 2019 to Aug 2020, Software Engineer, Cloud&AI, Huawei Technologies Co., Ltd.
 
