@@ -4,8 +4,8 @@ permalink: /publications/
 ---
 
 
-## Books 
-## Patents
+<!-- ## Books -->
+<!-- ## Patents -->
 
 ## Conference Paper
 
