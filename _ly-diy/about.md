@@ -36,7 +36,7 @@ My supervisors are A/Prof. Feng Zhang, Prof. Zhenhong Du, and Prof. Renyi Liu.
 * Jun 2019 to Aug 2020, Software Engineer, Cloud&AI, Huawei Technologies Co., Ltd.
 
 # Education Background
-* Sep 2020 to Jan 2024, Ph.D., School of Computer Science and Engineering, University of New South Wales
+* Sep 2020 to Jun 2024, Ph.D., School of Computer Science and Engineering, University of New South Wales
 * Sep 2016 to Mar 2019, M.S., School of Earth Sciences, Zhejiang University
 * Sep 2012 to Jul 2016, B.S., School of Earth Sciences, Zhejiang University
 
