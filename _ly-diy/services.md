@@ -1,9 +1,11 @@
 ---
-title: "Services & Activity"
+title: "Services & Activities"
 permalink: /services/
 ---
 
+<!-- Academic Services -->
 
+<!-- Academic Activities -->
 
 ## PC Member
 
