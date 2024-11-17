@@ -29,13 +29,13 @@ Before that, I received my M.S. and B.S. degree from the GIS lab, School of Eart
 My supervisors are A/Prof. Feng Zhang, Prof. Zhenhong Du, and Prof. Renyi Liu.
 -->
 
-# Professional Experience
+# Work Experience
 * Jul 2024 to Present, Lecturer, School of Computer Science and Engineering, Northeastern University
 * Jul 2024 to Present, Honorary Lecturer, School of Computing, Macquarie University
 * Jan 2024 to Jun 2024, Postdoctoral Research Associate, School of Computing, Macquarie University
 * Jun 2019 to Aug 2020, Software Engineer, Cloud&AI, Huawei Technologies Co., Ltd.
 
-# Education
+# Education Background
 * Sep 2020 to Jan 2024, Ph.D., School of Computer Science and Engineering, University of New South Wales
 * Sep 2016 to Mar 2019, M.S., School of Earth Sciences, Zhejiang University
 * Sep 2012 to Jul 2016, B.S., School of Earth Sciences, Zhejiang University
