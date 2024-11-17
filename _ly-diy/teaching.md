@@ -13,7 +13,9 @@ permalink: /teaching/
 * Yuanming Shi, Master (NEU/2024), Intelligent Detection,  Oct 2023 - Present, co-supervised with A/Prof. Rui Wang. <!-- 史元茗 -->
 * Xiaojian Wang, Master (NEU/2023), Image Detection,  Oct 2023 - Present, co-supervised with A/Prof. Rui Wang. <!-- 王晓健 -->
 * Bo Wang, Master (Shenyang University of Technology/2023), Trajectory Prediction,  Oct 2023 - Present, co-supervised with A/Prof. Rui Wang. <!-- 王博 -->
+
 --------
+
 * Maodong Li, Master (UNSW), Diffusion Modeling and Reinforcement Learning, Oct 2023 - May 2024, co-supervised with Prof. Lina Yao.
 * Gangfeng Cui, Master by Research (UNSW), 3D activity recognition, Sep 2021 - Aug 2022, co-supervised with Prof. Lina Yao.
 
