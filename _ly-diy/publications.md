@@ -4,7 +4,8 @@ permalink: /publications/
 ---
 
 
-<!-- ## Books -->
+## Books 
+## Patents
 
 ## Conference Paper
 
@@ -59,9 +60,9 @@ person interaction recognition***](https://dl.acm.org/doi/abs/10.1145/3639470). 
 <!-- Honghe LI;  Hongfei Wang;  Qi yu -->
 
 <!-- Xiaojian Wang; Bo Wang; Mingyuan Shi -->
-
-
-<!-- ## Patents -->
-
-
 *The symbol * denotes the corresponding author, while # indicates authors who contributed equally.*
+
+
+
+
+
